@@ -1,5 +1,4 @@
 # Exploratory Data Analysis
-Exploring Data Science 
 
 **Twitter Sentiment Analysis.ipynb:**
 
